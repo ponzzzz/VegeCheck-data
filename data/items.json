@@ -5,361 +5,421 @@
       "category": "vegetable",
       "code": 30100,
       "name": "だいこん",
-      "averageWeightGrams": 900
+      "averageWeightGrams": 900,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 30200,
       "name": "かぶ",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 30300,
       "name": "にんじん",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 200,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 30400,
       "name": "ごぼう",
-      "averageWeightGrams": 150
+      "averageWeightGrams": 150,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 30500,
       "name": "たけのこ",
-      "averageWeightGrams": 500
+      "averageWeightGrams": 500,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 30600,
       "name": "れんこん",
-      "averageWeightGrams": 300
+      "averageWeightGrams": 300,
+      "unitLabel": "1節"
     },
     {
       "category": "vegetable",
       "code": 31100,
       "name": "はくさい",
-      "averageWeightGrams": 1500
+      "averageWeightGrams": 1500,
+      "unitLabel": "1/2玉"
     },
     {
       "category": "vegetable",
       "code": 31300,
       "name": "みずな",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 200,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 31500,
       "name": "こまつな",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 200,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 31560,
       "name": "ちんげんさい",
-      "averageWeightGrams": 150
+      "averageWeightGrams": 150,
+      "unitLabel": "1袋"
     },
     {
       "category": "vegetable",
       "code": 31700,
       "name": "キャベツ",
-      "averageWeightGrams": 1000
+      "averageWeightGrams": 1000,
+      "unitLabel": "1玉"
     },
     {
       "category": "vegetable",
       "code": 31800,
       "name": "ほうれんそう",
-      "averageWeightGrams": 250
+      "averageWeightGrams": 250,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 31900,
       "name": "ねぎ",
-      "averageWeightGrams": 125
+      "averageWeightGrams": 125,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 32500,
       "name": "みつば",
-      "averageWeightGrams": 50
+      "averageWeightGrams": 50,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 32600,
       "name": "しゅんぎく",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 200,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 32800,
       "name": "にら",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 33100,
       "name": "アスパラガス",
-      "averageWeightGrams": 20
+      "averageWeightGrams": 20,
+      "unitLabel": "1束"
     },
     {
       "category": "vegetable",
       "code": 33200,
       "name": "カリフラワー",
-      "averageWeightGrams": 700
+      "averageWeightGrams": 700,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 33300,
       "name": "ブロッコリー",
-      "averageWeightGrams": 350
+      "averageWeightGrams": 350,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 33400,
       "name": "レタス",
-      "averageWeightGrams": 300
+      "averageWeightGrams": 300,
+      "unitLabel": "1玉"
     },
     {
       "category": "vegetable",
       "code": 34100,
       "name": "きゅうり",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 34200,
       "name": "かぼちゃ",
-      "averageWeightGrams": 1500
+      "averageWeightGrams": 1500,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 34300,
       "name": "なす",
-      "averageWeightGrams": 65
+      "averageWeightGrams": 65,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 34400,
       "name": "トマト",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 200,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 34450,
       "name": "ミニトマト",
-      "averageWeightGrams": 20
+      "averageWeightGrams": 20,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 34500,
       "name": "ピーマン",
-      "averageWeightGrams": 35
+      "averageWeightGrams": 35,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 34600,
       "name": "ししとう",
-      "averageWeightGrams": 10
+      "averageWeightGrams": 10,
+      "unitLabel": "1本"
     },
     {
       "category": "vegetable",
       "code": 35400,
       "name": "そらまめ",
-      "averageWeightGrams": 30
+      "averageWeightGrams": 30,
+      "unitLabel": "1さや"
     },
     {
       "category": "vegetable",
       "code": 35500,
       "name": "えだまめ",
-      "averageWeightGrams": 5
+      "averageWeightGrams": 5,
+      "unitLabel": "1さや"
     },
     {
       "category": "vegetable",
       "code": 36300,
       "name": "さといも",
-      "averageWeightGrams": 50
+      "averageWeightGrams": 50,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 36610,
       "name": "たまねぎ",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 200,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 36700,
       "name": "にんにく",
-      "averageWeightGrams": 50
+      "averageWeightGrams": 50,
+      "unitLabel": "1玉"
     },
     {
       "category": "vegetable",
       "code": 37200,
       "name": "しょうが",
-      "averageWeightGrams": 50
+      "averageWeightGrams": 50,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 38100,
       "name": "生しいたけ",
-      "averageWeightGrams": 20
+      "averageWeightGrams": 20,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 38300,
       "name": "なめこ",
-      "averageWeightGrams": 10
+      "averageWeightGrams": 10,
+      "unitLabel": "1個"
     },
     {
       "category": "vegetable",
       "code": 38400,
       "name": "えのきだけ",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1袋"
     },
     {
       "category": "vegetable",
       "code": 38500,
       "name": "しめじ",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1パック"
     },
     {
       "category": "fruit",
       "code": 40100,
       "name": "みかん",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 41321,
       "name": "はっさく",
-      "averageWeightGrams": 300
+      "averageWeightGrams": 300,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 42000,
       "name": "りんご",
-      "averageWeightGrams": 300
+      "averageWeightGrams": 300,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 43000,
       "name": "なし",
-      "averageWeightGrams": 375
+      "averageWeightGrams": 375,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 43500,
       "name": "かき",
-      "averageWeightGrams": 225
+      "averageWeightGrams": 225,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 43900,
       "name": "びわ",
-      "averageWeightGrams": 50
+      "averageWeightGrams": 50,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 44100,
       "name": "もも",
-      "averageWeightGrams": 275
+      "averageWeightGrams": 275,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 44700,
       "name": "すもも",
-      "averageWeightGrams": 80
+      "averageWeightGrams": 80,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 44800,
       "name": "おうとう",
-      "averageWeightGrams": 8
+      "averageWeightGrams": 8,
+      "unitLabel": "1粒"
     },
     {
       "category": "fruit",
       "code": 44950,
       "name": "うめ",
-      "averageWeightGrams": 20
+      "averageWeightGrams": 20,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 45000,
       "name": "ぶどう",
-      "averageWeightGrams": 400
+      "averageWeightGrams": 400,
+      "unitLabel": "1房"
     },
     {
       "category": "fruit",
       "code": 45700,
       "name": "くり",
-      "averageWeightGrams": 20
+      "averageWeightGrams": 20,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 46100,
       "name": "いちご",
-      "averageWeightGrams": 15
+      "averageWeightGrams": 15,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 47000,
       "name": "メロン",
-      "averageWeightGrams": 1200
+      "averageWeightGrams": 1200,
+      "unitLabel": "1玉"
     },
     {
       "category": "fruit",
       "code": 48100,
       "name": "すいか",
-      "averageWeightGrams": 5000
+      "averageWeightGrams": 5000,
+      "unitLabel": "1玉"
     },
     {
       "category": "fruit",
       "code": 49300,
       "name": "キウイフルツ",
-      "averageWeightGrams": 115
+      "averageWeightGrams": 115,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 50100,
       "name": "輸入バナナ",
-      "averageWeightGrams": 150
+      "averageWeightGrams": 150,
+      "unitLabel": "1本"
     },
     {
       "category": "fruit",
       "code": 50300,
       "name": "輸入パイナップル",
-      "averageWeightGrams": 1500
+      "averageWeightGrams": 1500,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 50400,
       "name": "輸入レモン",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 100,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 50600,
       "name": "輸入オレンジ",
-      "averageWeightGrams": 240
+      "averageWeightGrams": 240,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 50700,
       "name": "輸入おうとう",
-      "averageWeightGrams": 8
+      "averageWeightGrams": 8,
+      "unitLabel": "1粒"
     },
     {
       "category": "fruit",
       "code": 50800,
       "name": "輸入キウイ",
-      "averageWeightGrams": 115
+      "averageWeightGrams": 115,
+      "unitLabel": "1個"
     },
     {
       "category": "fruit",
       "code": 50850,
       "name": "輸入メロン",
-      "averageWeightGrams": 1200
+      "averageWeightGrams": 1200,
+      "unitLabel": "1玉"
     }
   ]
 }
