@@ -5,7 +5,7 @@
       "category": "vegetable",
       "code": 30100,
       "name": "だいこん",
-      "averageWeightGrams": 1000
+      "averageWeightGrams": 900
     },
     {
       "category": "vegetable",
@@ -17,7 +17,7 @@
       "category": "vegetable",
       "code": 30300,
       "name": "にんじん",
-      "averageWeightGrams": 150
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
@@ -71,13 +71,13 @@
       "category": "vegetable",
       "code": 31800,
       "name": "ほうれんそう",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 250
     },
     {
       "category": "vegetable",
       "code": 31900,
       "name": "ねぎ",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 125
     },
     {
       "category": "vegetable",
@@ -119,7 +119,7 @@
       "category": "vegetable",
       "code": 33400,
       "name": "レタス",
-      "averageWeightGrams": 500
+      "averageWeightGrams": 300
     },
     {
       "category": "vegetable",
@@ -137,7 +137,7 @@
       "category": "vegetable",
       "code": 34300,
       "name": "なす",
-      "averageWeightGrams": 120
+      "averageWeightGrams": 65
     },
     {
       "category": "vegetable",
@@ -155,7 +155,7 @@
       "category": "vegetable",
       "code": 34500,
       "name": "ピーマン",
-      "averageWeightGrams": 40
+      "averageWeightGrams": 35
     },
     {
       "category": "vegetable",
@@ -227,7 +227,7 @@
       "category": "fruit",
       "code": 40100,
       "name": "みかん",
-      "averageWeightGrams": 120
+      "averageWeightGrams": 100
     },
     {
       "category": "fruit",
@@ -245,13 +245,13 @@
       "category": "fruit",
       "code": 43000,
       "name": "なし",
-      "averageWeightGrams": 300
+      "averageWeightGrams": 375
     },
     {
       "category": "fruit",
       "code": 43500,
       "name": "かき",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 225
     },
     {
       "category": "fruit",
@@ -263,7 +263,7 @@
       "category": "fruit",
       "code": 44100,
       "name": "もも",
-      "averageWeightGrams": 250
+      "averageWeightGrams": 275
     },
     {
       "category": "fruit",
@@ -317,7 +317,7 @@
       "category": "fruit",
       "code": 49300,
       "name": "キウイフルツ",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 115
     },
     {
       "category": "fruit",
@@ -341,7 +341,7 @@
       "category": "fruit",
       "code": 50600,
       "name": "輸入オレンジ",
-      "averageWeightGrams": 200
+      "averageWeightGrams": 240
     },
     {
       "category": "fruit",
@@ -353,7 +353,7 @@
       "category": "fruit",
       "code": 50800,
       "name": "輸入キウイ",
-      "averageWeightGrams": 100
+      "averageWeightGrams": 115
     },
     {
       "category": "fruit",
