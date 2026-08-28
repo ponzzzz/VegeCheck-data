@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "category": "vegetable",
+      "code": 30100,
+      "name": "だいこん"
+    },
+    {
+      "category": "vegetable",
+      "code": 30200,
+      "name": "かぶ"
+    },
+    {
+      "category": "vegetable",
+      "code": 30300,
+      "name": "にんじん"
+    },
+    {
+      "category": "vegetable",
+      "code": 30400,
+      "name": "ごぼう"
+    },
+    {
+      "category": "vegetable",
+      "code": 30500,
+      "name": "たけのこ"
+    },
+    {
+      "category": "vegetable",
+      "code": 30600,
+      "name": "れんこん"
+    },
+    {
+      "category": "vegetable",
+      "code": 31100,
+      "name": "はくさい"
+    },
+    {
+      "category": "vegetable",
+      "code": 31300,
+      "name": "みずな"
+    },
+    {
+      "category": "vegetable",
+      "code": 31500,
+      "name": "こまつな"
+    },
+    {
+      "category": "vegetable",
+      "code": 31560,
+      "name": "ちんげんさい"
+    },
+    {
+      "category": "vegetable",
+      "code": 31700,
+      "name": "キャベツ"
+    },
+    {
+      "category": "vegetable",
+      "code": 31800,
+      "name": "ほうれんそう"
+    },
+    {
+      "category": "vegetable",
+      "code": 31900,
+      "name": "ねぎ"
+    },
+    {
+      "category": "vegetable",
+      "code": 32500,
+      "name": "みつば"
+    },
+    {
+      "category": "vegetable",
+      "code": 32600,
+      "name": "しゅんぎく"
+    },
+    {
+      "category": "vegetable",
+      "code": 32800,
+      "name": "にら"
+    },
+    {
+      "category": "vegetable",
+      "code": 33100,
+      "name": "アスパラガス"
+    },
+    {
+      "category": "vegetable",
+      "code": 33200,
+      "name": "カリフラワー"
+    },
+    {
+      "category": "vegetable",
+      "code": 33300,
+      "name": "ブロッコリー"
+    },
+    {
+      "category": "vegetable",
+      "code": 33400,
+      "name": "レタス"
+    },
+    {
+      "category": "vegetable",
+      "code": 34100,
+      "name": "きゅうり"
+    },
+    {
+      "category": "vegetable",
+      "code": 34200,
+      "name": "かぼちゃ"
+    },
+    {
+      "category": "vegetable",
+      "code": 34300,
+      "name": "なす"
+    },
+    {
+      "category": "vegetable",
+      "code": 34400,
+      "name": "トマト"
+    },
+    {
+      "category": "vegetable",
+      "code": 34450,
+      "name": "ミニトマト"
+    },
+    {
+      "category": "vegetable",
+      "code": 34500,
+      "name": "ピーマン"
+    },
+    {
+      "category": "vegetable",
+      "code": 34600,
+      "name": "ししとう"
+    },
+    {
+      "category": "vegetable",
+      "code": 35400,
+      "name": "そらまめ"
+    },
+    {
+      "category": "vegetable",
+      "code": 35500,
+      "name": "えだまめ"
+    },
+    {
+      "category": "vegetable",
+      "code": 36300,
+      "name": "さといも"
+    },
+    {
+      "category": "vegetable",
+      "code": 36610,
+      "name": "たまねぎ"
+    },
+    {
+      "category": "vegetable",
+      "code": 36700,
+      "name": "にんにく"
+    },
+    {
+      "category": "vegetable",
+      "code": 37200,
+      "name": "しょうが"
+    },
+    {
+      "category": "vegetable",
+      "code": 38100,
+      "name": "生しいたけ"
+    },
+    {
+      "category": "vegetable",
+      "code": 38300,
+      "name": "なめこ"
+    },
+    {
+      "category": "vegetable",
+      "code": 38400,
+      "name": "えのきだけ"
+    },
+    {
+      "category": "vegetable",
+      "code": 38500,
+      "name": "しめじ"
+    },
+    {
+      "category": "fruit",
+      "code": 40100,
+      "name": "みかん"
+    },
+    {
+      "category": "fruit",
+      "code": 41321,
+      "name": "はっさく"
+    },
+    {
+      "category": "fruit",
+      "code": 42000,
+      "name": "りんご"
+    },
+    {
+      "category": "fruit",
+      "code": 43000,
+      "name": "なし"
+    },
+    {
+      "category": "fruit",
+      "code": 43500,
+      "name": "かき"
+    },
+    {
+      "category": "fruit",
+      "code": 43900,
+      "name": "びわ"
+    },
+    {
+      "category": "fruit",
+      "code": 44100,
+      "name": "もも"
+    },
+    {
+      "category": "fruit",
+      "code": 44700,
+      "name": "すもも"
+    },
+    {
+      "category": "fruit",
+      "code": 44800,
+      "name": "おうとう"
+    },
+    {
+      "category": "fruit",
+      "code": 44950,
+      "name": "うめ"
+    },
+    {
+      "category": "fruit",
+      "code": 45000,
+      "name": "ぶどう"
+    },
+    {
+      "category": "fruit",
+      "code": 45700,
+      "name": "くり"
+    },
+    {
+      "category": "fruit",
+      "code": 46100,
+      "name": "いちご"
+    },
+    {
+      "category": "fruit",
+      "code": 47000,
+      "name": "メロン"
+    },
+    {
+      "category": "fruit",
+      "code": 48100,
+      "name": "すいか"
+    },
+    {
+      "category": "fruit",
+      "code": 49300,
+      "name": "キウイフルツ"
+    },
+    {
+      "category": "fruit",
+      "code": 50100,
+      "name": "輸入バナナ"
+    },
+    {
+      "category": "fruit",
+      "code": 50300,
+      "name": "輸入パイナップル"
+    },
+    {
+      "category": "fruit",
+      "code": 50400,
+      "name": "輸入レモン"
+    },
+    {
+      "category": "fruit",
+      "code": 50600,
+      "name": "輸入オレンジ"
+    },
+    {
+      "category": "fruit",
+      "code": 50700,
+      "name": "輸入おうとう"
+    },
+    {
+      "category": "fruit",
+      "code": 50800,
+      "name": "輸入キウイ"
+    },
+    {
+      "category": "fruit",
+      "code": 50850,
+      "name": "輸入メロン"
+    }
+  ]
+}
