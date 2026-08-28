@@ -4,302 +4,362 @@
     {
       "category": "vegetable",
       "code": 30100,
-      "name": "だいこん"
+      "name": "だいこん",
+      "averageWeightGrams": 1000
     },
     {
       "category": "vegetable",
       "code": 30200,
-      "name": "かぶ"
+      "name": "かぶ",
+      "averageWeightGrams": 100
     },
     {
       "category": "vegetable",
       "code": 30300,
-      "name": "にんじん"
+      "name": "にんじん",
+      "averageWeightGrams": 150
     },
     {
       "category": "vegetable",
       "code": 30400,
-      "name": "ごぼう"
+      "name": "ごぼう",
+      "averageWeightGrams": 150
     },
     {
       "category": "vegetable",
       "code": 30500,
-      "name": "たけのこ"
+      "name": "たけのこ",
+      "averageWeightGrams": 500
     },
     {
       "category": "vegetable",
       "code": 30600,
-      "name": "れんこん"
+      "name": "れんこん",
+      "averageWeightGrams": 300
     },
     {
       "category": "vegetable",
       "code": 31100,
-      "name": "はくさい"
+      "name": "はくさい",
+      "averageWeightGrams": 1500
     },
     {
       "category": "vegetable",
       "code": 31300,
-      "name": "みずな"
+      "name": "みずな",
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
       "code": 31500,
-      "name": "こまつな"
+      "name": "こまつな",
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
       "code": 31560,
-      "name": "ちんげんさい"
+      "name": "ちんげんさい",
+      "averageWeightGrams": 150
     },
     {
       "category": "vegetable",
       "code": 31700,
-      "name": "キャベツ"
+      "name": "キャベツ",
+      "averageWeightGrams": 1000
     },
     {
       "category": "vegetable",
       "code": 31800,
-      "name": "ほうれんそう"
+      "name": "ほうれんそう",
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
       "code": 31900,
-      "name": "ねぎ"
+      "name": "ねぎ",
+      "averageWeightGrams": 100
     },
     {
       "category": "vegetable",
       "code": 32500,
-      "name": "みつば"
+      "name": "みつば",
+      "averageWeightGrams": 50
     },
     {
       "category": "vegetable",
       "code": 32600,
-      "name": "しゅんぎく"
+      "name": "しゅんぎく",
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
       "code": 32800,
-      "name": "にら"
+      "name": "にら",
+      "averageWeightGrams": 100
     },
     {
       "category": "vegetable",
       "code": 33100,
-      "name": "アスパラガス"
+      "name": "アスパラガス",
+      "averageWeightGrams": 20
     },
     {
       "category": "vegetable",
       "code": 33200,
-      "name": "カリフラワー"
+      "name": "カリフラワー",
+      "averageWeightGrams": 700
     },
     {
       "category": "vegetable",
       "code": 33300,
-      "name": "ブロッコリー"
+      "name": "ブロッコリー",
+      "averageWeightGrams": 350
     },
     {
       "category": "vegetable",
       "code": 33400,
-      "name": "レタス"
+      "name": "レタス",
+      "averageWeightGrams": 500
     },
     {
       "category": "vegetable",
       "code": 34100,
-      "name": "きゅうり"
+      "name": "きゅうり",
+      "averageWeightGrams": 100
     },
     {
       "category": "vegetable",
       "code": 34200,
-      "name": "かぼちゃ"
+      "name": "かぼちゃ",
+      "averageWeightGrams": 1500
     },
     {
       "category": "vegetable",
       "code": 34300,
-      "name": "なす"
+      "name": "なす",
+      "averageWeightGrams": 120
     },
     {
       "category": "vegetable",
       "code": 34400,
-      "name": "トマト"
+      "name": "トマト",
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
       "code": 34450,
-      "name": "ミニトマト"
+      "name": "ミニトマト",
+      "averageWeightGrams": 20
     },
     {
       "category": "vegetable",
       "code": 34500,
-      "name": "ピーマン"
+      "name": "ピーマン",
+      "averageWeightGrams": 40
     },
     {
       "category": "vegetable",
       "code": 34600,
-      "name": "ししとう"
+      "name": "ししとう",
+      "averageWeightGrams": 10
     },
     {
       "category": "vegetable",
       "code": 35400,
-      "name": "そらまめ"
+      "name": "そらまめ",
+      "averageWeightGrams": 30
     },
     {
       "category": "vegetable",
       "code": 35500,
-      "name": "えだまめ"
+      "name": "えだまめ",
+      "averageWeightGrams": 5
     },
     {
       "category": "vegetable",
       "code": 36300,
-      "name": "さといも"
+      "name": "さといも",
+      "averageWeightGrams": 50
     },
     {
       "category": "vegetable",
       "code": 36610,
-      "name": "たまねぎ"
+      "name": "たまねぎ",
+      "averageWeightGrams": 200
     },
     {
       "category": "vegetable",
       "code": 36700,
-      "name": "にんにく"
+      "name": "にんにく",
+      "averageWeightGrams": 50
     },
     {
       "category": "vegetable",
       "code": 37200,
-      "name": "しょうが"
+      "name": "しょうが",
+      "averageWeightGrams": 50
     },
     {
       "category": "vegetable",
       "code": 38100,
-      "name": "生しいたけ"
+      "name": "生しいたけ",
+      "averageWeightGrams": 20
     },
     {
       "category": "vegetable",
       "code": 38300,
-      "name": "なめこ"
+      "name": "なめこ",
+      "averageWeightGrams": 10
     },
     {
       "category": "vegetable",
       "code": 38400,
-      "name": "えのきだけ"
+      "name": "えのきだけ",
+      "averageWeightGrams": 100
     },
     {
       "category": "vegetable",
       "code": 38500,
-      "name": "しめじ"
+      "name": "しめじ",
+      "averageWeightGrams": 100
     },
     {
       "category": "fruit",
       "code": 40100,
-      "name": "みかん"
+      "name": "みかん",
+      "averageWeightGrams": 120
     },
     {
       "category": "fruit",
       "code": 41321,
-      "name": "はっさく"
+      "name": "はっさく",
+      "averageWeightGrams": 300
     },
     {
       "category": "fruit",
       "code": 42000,
-      "name": "りんご"
+      "name": "りんご",
+      "averageWeightGrams": 300
     },
     {
       "category": "fruit",
       "code": 43000,
-      "name": "なし"
+      "name": "なし",
+      "averageWeightGrams": 300
     },
     {
       "category": "fruit",
       "code": 43500,
-      "name": "かき"
+      "name": "かき",
+      "averageWeightGrams": 200
     },
     {
       "category": "fruit",
       "code": 43900,
-      "name": "びわ"
+      "name": "びわ",
+      "averageWeightGrams": 50
     },
     {
       "category": "fruit",
       "code": 44100,
-      "name": "もも"
+      "name": "もも",
+      "averageWeightGrams": 250
     },
     {
       "category": "fruit",
       "code": 44700,
-      "name": "すもも"
+      "name": "すもも",
+      "averageWeightGrams": 80
     },
     {
       "category": "fruit",
       "code": 44800,
-      "name": "おうとう"
+      "name": "おうとう",
+      "averageWeightGrams": 8
     },
     {
       "category": "fruit",
       "code": 44950,
-      "name": "うめ"
+      "name": "うめ",
+      "averageWeightGrams": 20
     },
     {
       "category": "fruit",
       "code": 45000,
-      "name": "ぶどう"
+      "name": "ぶどう",
+      "averageWeightGrams": 400
     },
     {
       "category": "fruit",
       "code": 45700,
-      "name": "くり"
+      "name": "くり",
+      "averageWeightGrams": 20
     },
     {
       "category": "fruit",
       "code": 46100,
-      "name": "いちご"
+      "name": "いちご",
+      "averageWeightGrams": 15
     },
     {
       "category": "fruit",
       "code": 47000,
-      "name": "メロン"
+      "name": "メロン",
+      "averageWeightGrams": 1200
     },
     {
       "category": "fruit",
       "code": 48100,
-      "name": "すいか"
+      "name": "すいか",
+      "averageWeightGrams": 5000
     },
     {
       "category": "fruit",
       "code": 49300,
-      "name": "キウイフルツ"
+      "name": "キウイフルツ",
+      "averageWeightGrams": 100
     },
     {
       "category": "fruit",
       "code": 50100,
-      "name": "輸入バナナ"
+      "name": "輸入バナナ",
+      "averageWeightGrams": 150
     },
     {
       "category": "fruit",
       "code": 50300,
-      "name": "輸入パイナップル"
+      "name": "輸入パイナップル",
+      "averageWeightGrams": 1500
     },
     {
       "category": "fruit",
       "code": 50400,
-      "name": "輸入レモン"
+      "name": "輸入レモン",
+      "averageWeightGrams": 100
     },
     {
       "category": "fruit",
       "code": 50600,
-      "name": "輸入オレンジ"
+      "name": "輸入オレンジ",
+      "averageWeightGrams": 200
     },
     {
       "category": "fruit",
       "code": 50700,
-      "name": "輸入おうとう"
+      "name": "輸入おうとう",
+      "averageWeightGrams": 8
     },
     {
       "category": "fruit",
       "code": 50800,
-      "name": "輸入キウイ"
+      "name": "輸入キウイ",
+      "averageWeightGrams": 100
     },
     {
       "category": "fruit",
       "code": 50850,
-      "name": "輸入メロン"
+      "name": "輸入メロン",
+      "averageWeightGrams": 1200
     }
   ]
 }
